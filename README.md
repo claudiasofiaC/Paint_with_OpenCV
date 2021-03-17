@@ -9,5 +9,5 @@ Mask to isolate each highlighter:
 ![alt text here](/images/mask.png)
 
 Bounding box for each object:
-![alt text here](/images/bounding box.png)
+![alt text here](images/bounding box.png)
 
